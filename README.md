@@ -23,3 +23,4 @@
 - kafka消息中间件
 - solr搜索引入
 - 集成hystrix
+Hello World
